@@ -4,15 +4,15 @@
 <img src="https://github.com/1024shao/emelun-admin/blob/master/assets/favicon.png" style="width:200px;" />
 </p>
 
-<h1 align="center">Emelun-Admin</h1>
+<h1 align="center">Avenger</h1>
 
 <p align="center">
-    ['emelun](艾麦伦) أمل 希望
+    Avengerأمل 希望
 </p>
 
 <p align="center">
     <a href="https://www.npmjs.com/package/iron-ui"><img src="https://img.shields.io/npm/v/iron-ui?color=008c8c&amp;label=" alt="NPM version"></a>
-    <a href="https://github.com/1024shao/emelun-admin/actions/workflows/ci.yml"><img src="https://github.com/1024shao/emelun-admin/actions/workflows/ci.yml/badge.svg?branch=master" alt="CI" style="max-width: 100%;"></a>
+    <a href="https://github.com/SuYxh/avenger/blob/main/.github/workflows/ci.yml"><img src="https://github.com/SuYxh/avenger/blob/main/.github/workflows/ci.yml/badge.svg?branch=master" alt="CI" style="max-width: 100%;"></a>
 </p>
 
 <br>
