@@ -11,12 +11,12 @@ importers:
   packages/yasuo-docs:
     specifiers:
       vue: ^3.2.37
-      yasuo-ui: workspace:^1.0.0
+      yasuoui: workspace:^1.0.0
     dependencies:
       vue: 3.2.41
-      yasuo-ui: link:../yasuo-ui
+      yasuoui: link:../yasuoui
 
-  packages/yasuo-ui:
+  packages/yasuoui:
     specifiers:
       '@commitlint/cli': 17.0.2
       '@commitlint/config-conventional': 17.0.2

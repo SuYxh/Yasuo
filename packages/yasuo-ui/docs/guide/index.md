@@ -17,14 +17,14 @@
 ## Install
 
 ```bash
-npm i yasuo-ui
+npm i yasuoui
 ```
 
 ## Quick Start
 
 ```js
 import Vue from 'vue'
-import EmelunUI from 'yasuo-ui'
+import EmelunUI from 'yasuoui'
 
 const App = {
   template: `<Button/>`,

@@ -6,8 +6,8 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "npx husky install",
-    "build:docs": "pnpm --filter yasuo-ui docs:build",
-    "docs:dev": "pnpm --filter yasuo-ui docs:dev"
+    "build:docs": "pnpm --filter yasuoui docs:build",
+    "docs:dev": "pnpm --filter yasuoui docs:dev"
   },
   "homepage": "https://yasuo-roan.vercel.app/",
   "repository": {
