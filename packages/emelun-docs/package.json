@@ -1,0 +1,15 @@
+{
+  "name": "yasuo-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yasuo-ui": "workspace:^1.0.0",
+    "vue": "^3.2.37"
+  }
+}

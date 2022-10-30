@@ -1,0 +1,25 @@
+{
+  "name": "yasuo",
+  "version": "1.0.0",
+  "description": "<br>",
+  "main": "commitlint.config.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "prepare": "npx husky install",
+    "build:docs": "pnpm --filter yasuo-ui docs:build",
+    "docs:dev": "pnpm --filter yasuo-ui docs:dev"
+  },
+  "homepage": "https://yasuo.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuYxh/Yasuo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuYxh/Yasuo/issues"
+  },
+  "dependencies": {
+    "vite": "^3.0.7"
+  }
+}
