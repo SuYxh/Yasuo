@@ -4,10 +4,10 @@
 <img src="../../public/favicon.png" style="width:130px;" />
 </p>
 
-<h1 align="center">Emelun-Admin</h1>
+<h1 align="center">IronUI-Admin</h1>
 
 <p align="center">
-    ['emelun](艾麦伦) أمل 希望
+    ['IronUI] أمل 希望
 </p>
 <p align='center'>一个 Mini 版的组件库，基于 Vite 栈。</p>
 
@@ -32,13 +32,13 @@ npm i iron-ui
 
 ```js
 import Vue from 'vue'
-import EmelunUI from 'iron-ui'
+import IronUI from 'iron-ui'
 
 const App = {
   template: `<Button/>`,
 }
 
-createApp(App).use(EmelunUI).mount('#app')
+createApp(App).use(IronUI).mount('#app')
 ```
 
 ## Browser Support

@@ -4,7 +4,7 @@ const sidebar = [
     text: "Introduction",
     description: "一站式Mini组件库",
     items: [
-      { text: "Yasuo-UI是什么 ?", link: "/guide/intro/" },
+      { text: "IronUI是什么 ?", link: "/guide/intro/" },
     ],
   },
   {
@@ -36,7 +36,7 @@ const sidebar = [
 ];
 
 export default defineConfig({
-  title: "Yasuo-UI",
+  title: "IronUI",
   description: "组件库搭建的教学模型",
   themeConfig: {
     logo:'/favicon.png',
@@ -50,7 +50,7 @@ export default defineConfig({
       { text: "Guide", link: "/guide/intro/" },
       { text: "二十一", link: "https://juejin.cn/user/2084329779636094/posts" },
           ],
-    socialLinks: [{ icon: "github", link: "https://github.com/SuYxh/Yasuo" },]
+    socialLinks: [{ icon: "github", link: "https://github.com/SuYxh/avenger" },]
   },
   markdown: {
     config: (md) => {

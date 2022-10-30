@@ -1,4 +1,4 @@
-# 🔨 Emelun-UI 是什么?
+# 🔨 IronUI 是什么?
 
 - 测试一下
   一个 Mini 版的组件库，基于 Vite 栈。
@@ -12,7 +12,7 @@
 - 😃 Eslint + Prittier
 - 🎨 UnoCSS - the instant on-demand atomic CSS engine
 - 🌍 I18n ready
-- 🚘 CI/CD with GithubActions
+- 🚘 CI/CD with Github Actions
 
 ## Install
 
@@ -24,13 +24,13 @@ npm i iron-ui
 
 ```js
 import Vue from 'vue'
-import EmelunUI from 'iron-ui'
+import IronUI from 'iron-ui'
 
 const App = {
   template: `<Button/>`,
 }
 
-createApp(App).use(EmelunUI).mount('#app')
+createApp(App).use(IronUI).mount('#app')
 ```
 
 ## Browser Support
