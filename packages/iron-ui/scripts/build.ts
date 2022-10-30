@@ -48,7 +48,7 @@ const buildAll = async () => {
       fs.outputFile(
         path.resolve(outDir, `package.json`),
         `{
-          "name": "yasuoui/${name}",
+          "name": "iron-ui/${name}",
           "main": "index.umd.js",
           "module": "index.umd.js"
         }`,

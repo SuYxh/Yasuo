@@ -25,7 +25,7 @@ export const config = {
     lib: {
       entry: "./src/entry.ts",
       name: "EmelunUI",
-      fileName: "yasuoui",
+      fileName: "iron-ui",
       // 导出模块格式
       formats: ["es", "umd", "iife"],
     },

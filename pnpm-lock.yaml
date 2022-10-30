@@ -8,15 +8,15 @@ importers:
     dependencies:
       vite: 3.2.1
 
-  packages/yasuo-docs:
+  packages/docs-iron-ui:
     specifiers:
       vue: ^3.2.37
-      yasuoui: workspace:^1.0.0
+      iron-ui: workspace:^1.0.0
     dependencies:
       vue: 3.2.41
-      yasuoui: link:../yasuoui
+      iron-ui: link:../iron-ui
 
-  packages/yasuoui:
+  packages/iron-ui:
     specifiers:
       '@commitlint/cli': 17.0.2
       '@commitlint/config-conventional': 17.0.2

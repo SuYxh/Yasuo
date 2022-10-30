@@ -1,13 +1,13 @@
 {
-  "name": "yasuo",
+  "name": "avenger",
   "version": "1.0.0",
-  "description": "<br>",
+  "description": "一个学习的项目",
   "main": "commitlint.config.js",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "npx husky install",
-    "build:docs": "pnpm --filter yasuoui docs:build",
-    "docs:dev": "pnpm --filter yasuoui docs:dev"
+    "build:docs": "pnpm --filter iron-ui docs:build",
+    "docs:dev": "pnpm --filter iron-ui docs:dev"
   },
   "homepage": "https://yasuo-roan.vercel.app/",
   "repository": {

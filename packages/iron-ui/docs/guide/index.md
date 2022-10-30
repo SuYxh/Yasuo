@@ -17,14 +17,14 @@
 ## Install
 
 ```bash
-npm i yasuoui
+npm i iron-ui
 ```
 
 ## Quick Start
 
 ```js
 import Vue from 'vue'
-import EmelunUI from 'yasuoui'
+import EmelunUI from 'iron-ui'
 
 const App = {
   template: `<Button/>`,

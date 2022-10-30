@@ -1,5 +1,5 @@
 {
-  "name": "yasuo-docs",
+  "name": "docs-iron-ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "yasuoui": "workspace:^1.0.0",
+    "iron-ui": "workspace:^1.0.0",
     "vue": "^3.2.37"
   }
 }
