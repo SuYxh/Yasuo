@@ -8,7 +8,7 @@ importers:
     dependencies:
       vite: 3.2.1
 
-  packages/emelun-docs:
+  packages/yasuo-docs:
     specifiers:
       vue: ^3.2.37
       yasuo-ui: workspace:^1.0.0
