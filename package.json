@@ -9,7 +9,7 @@
     "build:docs": "pnpm --filter yasuo-ui docs:build",
     "docs:dev": "pnpm --filter yasuo-ui docs:dev"
   },
-  "homepage": "https://yasuo.vercel.app/",
+  "homepage": "https://yasuo-roan.vercel.app/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SuYxh/Yasuo.git"
